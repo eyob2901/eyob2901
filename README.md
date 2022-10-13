@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ***Eyob Eshetu***
+- 👋 Hi, I’m ******Eyob Eshetu******
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ALX Full Stack Software Engineering
 - 💞️ I’m looking to collaborate on on any project that suit with my skills and align with my background
